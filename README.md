@@ -45,6 +45,11 @@ This document provides a brief overview of the AWS services utilized to deploy a
 <h2>Screenshots</h2>
 
 ![image](https://github.com/user-attachments/assets/0915284c-aca1-4d39-abb8-e9e205a69cdb)
+![image](https://github.com/user-attachments/assets/389bbb9f-04a1-4ec9-af48-35b0681d2409)
+![image](https://github.com/user-attachments/assets/2482785a-39df-4bf5-8274-546cf7b5225e)
+
+
+
 
 
 
