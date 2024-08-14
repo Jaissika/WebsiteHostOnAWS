@@ -47,11 +47,19 @@ This document provides a brief overview of the AWS services utilized to deploy a
 ![image](https://github.com/user-attachments/assets/0915284c-aca1-4d39-abb8-e9e205a69cdb)
 ![image](https://github.com/user-attachments/assets/389bbb9f-04a1-4ec9-af48-35b0681d2409)
 ![image](https://github.com/user-attachments/assets/2482785a-39df-4bf5-8274-546cf7b5225e)
+![image](https://github.com/user-attachments/assets/9d1e8c5b-247b-4191-a181-2ad9075af7a7)
+![image](https://github.com/user-attachments/assets/99904b15-5ced-41ea-a8eb-be602438b866)
+![image](https://github.com/user-attachments/assets/176c6a12-c3a6-4535-9cc3-5c36b4dc3aa1)
+![image](https://github.com/user-attachments/assets/da139c71-3b2d-4244-aa84-71a0eff7b7aa)
+![image](https://github.com/user-attachments/assets/8b035299-8c1f-439e-a41b-314d24d4aa29)
+![image](https://github.com/user-attachments/assets/ef11e950-7f59-49de-9dd8-d310a5a8e7c1)
+![image](https://github.com/user-attachments/assets/0f2b3e51-64ff-4f36-9592-b0838c75913a)
 
 
 
 
 
 
-Author-Jaissika Shukla
+
+Author-Jaissika Shukla <br>
 For any contributions and help contact jaissikashukla@gmail.com
