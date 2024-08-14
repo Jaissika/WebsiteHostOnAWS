@@ -43,8 +43,8 @@ This document provides a brief overview of the AWS services utilized to deploy a
 * Explore AWS IAM for identity and access management.
 
 <h2>Screenshots</h2>
+
 ![image](https://github.com/user-attachments/assets/0915284c-aca1-4d39-abb8-e9e205a69cdb)
-![image](https://github.com/user-attachments/assets/6b460550-4b28-45b1-992e-50064e432fb3)
 
 
 
